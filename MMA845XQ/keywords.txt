@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For MMA845XQ
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MMA845XQ   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin       KEYWORD2
+getX        KEYWORD2
+getY        KEYWORD2
+getZ        KEYWORD2
+getRho      KEYWORD2
+getPhi      KEYWORD2
+getTheta    KEYWORD2
+update      KEYWORD2
+getPLStatus KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
